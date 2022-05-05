@@ -458,3 +458,5 @@ appsettings.Development.json
 
 datingapp.db-shm
 datingapp.db-wal
+
+ssl/
